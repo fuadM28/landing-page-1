@@ -50,6 +50,9 @@ a {
   border-radius: 5px;
   margin-top: 10px;
 }
+.btn:hover{
+    background-color: tomato;
+}
 .see-it-action {
   display: flex;
   justify-content: space-between;
@@ -131,7 +134,9 @@ a {
   width: 250px;
   box-shadow: 0 0 10px rgba(0, 0, 0, 0.05);
 }
-
+.card img{
+border-radius: 25%;
+}
 .focus {
   padding: 40px 20px;
   text-align: center;
