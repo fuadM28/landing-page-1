@@ -1,0 +1,14 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+.hero {
+  text-align: center;
+  padding: 60px 20px;
+  background: #f3f4f6;
+}
+.hero h1 {
+  font-size: 28px;
+  margin-bottom: 20px;
+}
